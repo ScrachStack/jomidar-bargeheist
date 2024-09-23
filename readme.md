@@ -5,7 +5,7 @@
 
 ```
 1 . Download All DEPENDENCIES
-2 . Config
+2 . Edit cfg.lua
 3 . Drag And Drop Downloaded File
 ```
 # DEPENDENCIES
